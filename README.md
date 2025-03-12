@@ -1,8 +1,8 @@
 
 ## 👋 Hi, I'm Kaylhan Garcia!
 
-### 🚀 Aspiring Data Scientist | 🎓 Senior in Data Science for Justice, Law, and Criminology  
-🌎 Passionate about leveraging **data science** for social impact, justice, and equity.  
+### Aspiring Data Scientist | 🎓 Senior in Data Science for Justice, Law, and Criminology  
+Passionate about leveraging **data science** for social impact, justice, and equity.  
 
 ---
 
