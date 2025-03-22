@@ -28,10 +28,6 @@ Passionate about leveraging **data science** for social impact, justice, and equ
 
 ---
 
-## 📂 Featured Project
-🔹 [**Titanic Survival Prediction**](https://github.com/kerawyd/TitanicKaggleChallenge) - Classification model predicting passenger survival.  
-
----
 
 ## 🌱 Currently Doing
 - 🏆 Deepening my **Machine Learning** knowledge.  
