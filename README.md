@@ -1,17 +1,14 @@
 
 ## 👋 Hi, I'm Kaylhan Garcia!
 
-### Aspiring Data Scientist | 🎓 Senior in Data Science for Justice, Law, and Criminology  
-Passionate about leveraging **data science** for social impact, justice, and equity.  
+### Aspiring Data Scientist | 🎓 Data Science graduate
 
 ---
 
 ## 📊 About Me
-- 🎓 I'm a **senior** graduating with a degree in **Data Science for Justice, Law, and Criminology**.
-- 💡 I use **Python, R, SQL**, and **Machine Learning** to analyze real-world problems.
-- 👩‍💻 Currently working on **Kaggle projects** like the **Housing Price Prediction** Challenge.
-- 🌍 I founded **Dreamers Thrive**, an 501c3 educational equity nonprofit.
-- 🎯 My goal is to break into **tech as a Data Scientist** and use data for impactful decision-making.
+- 🎓 I'm a first-gen college graduate with a degree in Data Science. 
+- Currently working on a Streaming Service Customer Churn Analysis, predicting and preventing customer churn through data-driven insights and machine learning.
+- =My goal is to break into **tech as a Data Scientist** and use data for impactful decision-making.
 
 ---
 
@@ -24,7 +21,7 @@ Passionate about leveraging **data science** for social impact, justice, and equ
 
 🔹 **Databases:** MySQL | Google BigQuery  
 
-🔹 **Other:** GitHub | Jupyter Notebook | VsCode 
+🔹 **Other:** Git | GitHub | Jupyter Notebook | VsCode 
 
 ---
 
