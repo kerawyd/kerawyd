@@ -8,14 +8,14 @@
 ## 📊 About Me
 - 🎓 I'm a first-gen college graduate with a degree in Data Science. 
 - Currently working on a Streaming Service Customer Churn Analysis, predicting and preventing customer churn through data-driven insights and machine learning.
-- =My goal is to break into **tech as a Data Scientist** and use data for impactful decision-making.
+- My goal is to break into **tech as a Data Scientist** and use data for impactful decision-making.
 
 ---
 
 ## 🛠️ Tech & Tools
 🔹 **Programming:** Python | R | SQL  
 
-🔹 **Data Science:** Pandas | NumPy | Scikit-Learn | Dplyr
+🔹 **Data Science:** Pandas | NumPy | Scikit-Learn | Dplyr |
 
 🔹 **Visualization:** Matplotlib | Seaborn | Dplyr | Tableau  
 
