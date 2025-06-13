@@ -1,12 +1,12 @@
 
 ## 👋 Hi, I'm Kaylhan Garcia!
 
-### Aspiring Data Scientist | 🎓 Data Science graduate
+### Aspiring Data Scientist | MS in Cybersecurity @ NYU| BS in Data Science
 
 ---
 
 ## 📊 About Me
-- 🎓 I'm a first-gen college graduate with a degree in Data Science. 
+- 🎓 I'm a first-gen Mexican-American college graduate with a BS in Data Science.
 - Currently working on a Streaming Service Customer Churn Analysis, predicting and preventing customer churn through data-driven insights and machine learning.
 - My goal is to break into **tech as a Data Scientist** and use data for impactful decision-making.
 
