@@ -6,7 +6,7 @@
 ---
 
 ## 📊 About Me
-- 🎓 I'm a first-generation Mexican-American college graduate with a BS in Data Science.
+- 🎓 I'm a first-generation Mexican-American college graduate with a BS in Data Sciences for Justice, Law, and Criminology.
 - Currently working on a Streaming Service Customer Churn Analysis, predicting and preventing customer churn through data-driven insights and machine learning.
 - My goal is to break into **tech as a Data Scientist** and use data for impactful decision-making.
 
