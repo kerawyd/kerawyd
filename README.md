@@ -1,14 +1,14 @@
 
-## 👋 Hi, I'm Kaylhan Garcia!
+## 👋 Hi/Holis/哈喽, I'm Kaylhan Garcia!
 
-### Aspiring Data Scientist | MS in Cybersecurity @ NYU | BS in Data Science
+### MS in Cybersecurity @ NYU | BS in Data Science
 
 ---
 
 ## 📊 About Me
 - 🎓 I'm a first-generation Mexican-American college graduate with a BS in Data Sciences for Justice, Law, and Criminology.
-- Currently working on a Streaming Service Customer Churn Analysis, predicting and preventing customer churn through data-driven insights and machine learning.
-- My goal is to break into **tech as a Data Scientist** and use data for impactful decision-making.
+- Recently built a password strength tester as I prepare for my master's in Cybersecurity.
+- I have a blog [[HERE](https://cyber-with-kay.super.site/)]!
 
 ---
 
@@ -26,10 +26,11 @@
 ---
 
 
-## 🌱 Currently Doing
-- 🏆 Deepening my **Machine Learning** knowledge.  
-- 📊 Improving my **SQL for Data Analysis**.  
-- ☁️ Completing **data projects** to add to my portfolio. 
+## 🌱 Fun facts
+- I can speak Mandarin 我会说中文
+- I lived in 3 continents
+- Born and raised from Galveston, Texas
+- I collect stickers
 
 ---
 
