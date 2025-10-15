@@ -13,15 +13,15 @@
 ---
 
 ## 🛠️ Tech & Tools
-🔹 **Programming:** Python | R | SQL  
+🔹 **Programming:** C | Python | R | SQL  
 
-🔹 **Data Science:** Pandas | NumPy | Scikit-Learn | Dplyr |
+🔹 **Data Science:** Pandas | NumPy | Scikit-Learn | Dplyr 
 
 🔹 **Visualization:** Matplotlib | Seaborn | Dplyr | Tableau  
 
-🔹 **Databases:** MySQL | Google BigQuery  
+🔹 **Databases:** MySQL | Google BigQuery 
 
-🔹 **Other:** Git | GitHub | Jupyter Notebook | VsCode 
+🔹 **Other:** Git | GitHub | Jupyter Notebook | Wireshark | VsCode 
 
 ---
 
@@ -29,7 +29,7 @@
 ## 🌱 Fun facts
 - I can speak Mandarin 我会说中文
 - I lived in 3 continents
-- Born and raised from Galveston, Texas
+- Born and raised in Galveston, Texas
 - I collect stickers
 
 ---
